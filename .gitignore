@@ -1,0 +1,11 @@
+# Ignore all .gradio folders anywhere in the project
+**/.gradio/
+.gradio/
+
+# Ignore all __pycache__ folders and compiled python files
+**/__pycache__/
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables / secrets
+.env
